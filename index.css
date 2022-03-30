@@ -1,0 +1,118 @@
+.container{
+    display: flex;
+    width: 100%;
+    margin:5%;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    z-index: 1;
+}
+img{
+    width: 80%;
+}
+.link{
+    font-size:60%;
+}
+.logo{
+    width: 100%;
+    padding-top: 5rem;
+    padding-left: 10%;
+}
+img{
+    width: 90%;
+}
+.signin{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right: 20%;
+    width: 80%;
+
+}
+.top{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.box{
+    padding:10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px solid rgb(120, 173, 190);
+    border-radius: 10px;
+    padding-top: 0px;
+    margin-top: 2px;
+}
+.inf{
+    text-align: center;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.heada{
+    margin: 0px;
+    padding: 0px;
+}
+input{
+    margin:0px;
+    padding: 0px;
+    border: 0px;
+    border-bottom: 1px solid rgb(10, 135, 177);
+    width: 100%;
+    height: 30px;
+}
+.aa{
+    padding-top: 15px;
+}
+.credentials{
+    border-top: 1px solid rgb(10, 135, 177);
+    border-length: 100%;
+    padding-top: 25px;
+}
+.top{
+    margin: 0px;
+}
+button{
+    width: 100%;
+    margin-left: 0px;
+    background-color: rgb(44, 190, 239);
+    border: 0px;
+    border-radius: 7px;
+    height: 30px;
+    margin-top: 10%;
+    color: rgb(255, 255, 255);
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: rgb(44, 190, 239);
+    padding: 0px;
+    margin: 0px;
+}
+.line{
+    margin:0px;
+    padding-top: 1%;
+    padding-left: 4%;
+    font-size:80%;
+}
+.heada{
+    font-size:10px;
+}
+.padd{
+    padding-bottom: 5%;
+    text-align: center;
+    margin-top: 4px;
+    color: rgb(44, 190, 239);
+    padding-top: 1%;
+}
+span{
+    padding: 0px;
+    margin: 0px;
+    color: rgb(44, 190, 239);
+}
+.dont{
+    font-size:65%;
+    text-align: center;
+}

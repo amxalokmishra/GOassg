@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin:5%;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    z-index: 1;
+}
+.signin{
+    margin-top:10%;
+}
